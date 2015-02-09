@@ -1,0 +1,2 @@
+# Ignore NPM Package dependencies
+/node_modules
